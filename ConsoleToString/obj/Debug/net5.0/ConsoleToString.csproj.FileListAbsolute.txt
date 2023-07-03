@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\bin\Debug\net5.0\ConsoleToString.exe
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\bin\Debug\net5.0\ConsoleToString.deps.json
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\bin\Debug\net5.0\ConsoleToString.runtimeconfig.json
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\bin\Debug\net5.0\ConsoleToString.runtimeconfig.dev.json
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\bin\Debug\net5.0\ConsoleToString.dll
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\bin\Debug\net5.0\ConsoleToString.pdb
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\ConsoleToString.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\ConsoleToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\ConsoleToString.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\ConsoleToString.AssemblyInfo.cs
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\ConsoleToString.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\ConsoleToString.dll
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\refint\ConsoleToString.dll
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\ConsoleToString.pdb
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\ConsoleToString.genruntimeconfig.cache
+C:\Users\user\Desktop\ConsoleToString\ConsoleToString\obj\Debug\net5.0\ref\ConsoleToString.dll
